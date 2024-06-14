@@ -10,6 +10,7 @@ import BlogSection from "./Common/BlogSection";
 
 const Home = ()=>{
     return(<>
+    // Home page
     <Header/>
     <HomeSlider />
     {/* Start banner section*/}
